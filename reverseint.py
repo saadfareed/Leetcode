@@ -9,7 +9,6 @@ z=l
 answer=0
 #print(l)
 for i in range(0,l):
-    #print(i)
     result=num%(10**(i+1))
     num=num-result
     #print(result)
