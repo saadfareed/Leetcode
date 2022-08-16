@@ -8,8 +8,12 @@ LeetCode
 | # | Title | Solution | Difficulty | Method#1 | Method#2 |
 |---| ----- | -------- | ---------- | -------- | -------- |
 |2239|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./reverseint.py)|Medium| ✔️ | ✔️|
+|468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Python](./validIPAddress.py)|Medium| ✔️ | ✔️|
 |1946|[Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [C++](./algorithms/cpp/largestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring.cpp), [Java](./algorithms/java/src/LargestNumberAfterMutatingSubtring/largestNumberAfterMutatingSubstring.java)|Medium|✔️ | ❌|
 |1945|[Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [C++](./algorithms/cpp/leetcode/sumOfDigitsOfStringAfterConvert/SumOfDigitsOfStringAfterConvert.cpp)|Easy|✔️ | ❌|
+
+. 
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
