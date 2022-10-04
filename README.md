@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+=======
+LeetCode
+========
+
+### LeetCode Algorithm
+
+(Notes: "🔒" means you need to 1 to 1 mentorship for Algorithm and Analysis)
+
+| # | Title | Languages | Difficulty | Solution#1 | Solution#2 |
+|---| ----- | -------- | ---------- | -------- | -------- |
+|2239|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Python |Medium| [PythonM1](/Python/reverseint.py) | ✔️|
+|468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | Python |Medium| [PythonM1](/Python/validIPAddress.py) | ✔️|
+
+>>>>>>> 218d06a5590b574fc3a6c257200b997baa9ad88e
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
         <img src="https://raw.githubusercontent.com/keshavsingh4522/hacktoberfest2021/35fc6060c5ddead5792f29a2437fea160dbe9804/Assets/logo-hacktoberfest-full.f42e3b1.svg" width="30%">
