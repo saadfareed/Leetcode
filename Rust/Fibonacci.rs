@@ -1,3 +1,6 @@
+// Name: Muhammad Yousaf
+// Username: yousafsabir
+// Approach: function loops over and perform arithmatec operations
 fn main() {
     let number: i32 = 4;
     fibonacci_series(number);
