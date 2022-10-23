@@ -1,3 +1,8 @@
+# Name: Ayesha Aslam
+
+# Username: ch-ayesha
+
+# Approach: Solve this problem using stack and its time complexity is O(n)
 class Solution(object):
     def isValid(self, s):
         """
