@@ -1,7 +1,5 @@
 
-<-- TWO SUM Problem 1-->
-
-class Solution {
+//TWO SUM Problem 1ss Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         vector<int> sol;
