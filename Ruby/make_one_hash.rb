@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def make_one_hash(arr)
   hash = {}
   arr.each do |ele|
