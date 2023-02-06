@@ -4,8 +4,9 @@
 # Username: Shoaib019
 # Approach:
 def find_max_frequency_character(str)
-  arr = [nil,nil]
-  str.each_char_with_index do |ch,idx|
-      
+  arr = [nil, nil]
+  str.each_char_with_index do |ch, idx|
+    # do from here
+   
   end
 end
