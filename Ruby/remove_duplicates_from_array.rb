@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Name: Areeb Alam
 # Username: AreebAlam99
 # Approach: Just used uniq to remove duplicates and returned count :p.
