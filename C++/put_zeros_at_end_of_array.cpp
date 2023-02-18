@@ -1,5 +1,6 @@
 //  Name: Shoaib Sabir
 //  Username: Shoaib019
+//  Question: given a array of numbers move all zeros to the end of the array
 //  Approach: take two pointers one at end and one at beginning of array
 //            use while loop to terminate when both pointers colid
 //            inside loop just swap when non zero at beginning pointer
