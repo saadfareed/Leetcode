@@ -1,5 +1,6 @@
 //  Name: Shoaib Sabir
 //  Username: Shoaib019
+//  Question: remove all special characters from characters array
 //  Approach: remove_character shifts array to let by one character
 //            is_special_character checks whether character is special or not
 //            remove_special_charactes reduce size if last character is special

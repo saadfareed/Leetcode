@@ -1,3 +1,8 @@
+//  Name: Shoaib Sabir
+//  Username: Shoaib019
+//  Question: find out you can afford phone or not by calculating
+//            phone price with accessories also add tax
+
 //  DATA
 TAX_RATE = 0.08;
 PHONE_PRICE = 99.99;
