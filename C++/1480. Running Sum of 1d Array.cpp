@@ -12,3 +12,5 @@ public:
             runsum.push_back(sum);
         }
         return runsum;
+    }
+};
