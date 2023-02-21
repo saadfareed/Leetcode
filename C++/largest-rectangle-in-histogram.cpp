@@ -1,7 +1,8 @@
 // Name: Sumit Chakraborty
 
 // Username: chakraborty9569
-
+#include<vector>
+#include<stack>
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
