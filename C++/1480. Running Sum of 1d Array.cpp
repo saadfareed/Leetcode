@@ -3,7 +3,7 @@ public:
     vector<int> runningSum(vector<int>& nums)
     {
         vector<int>runsum;
-        int sum = 0;
+        int sum = 1;
         
         for(auto i:nums)
         {
