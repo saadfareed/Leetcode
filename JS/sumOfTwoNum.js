@@ -1,3 +1,6 @@
 const a = 10;
 const b = 3;
-console.log(a + b);
+let c = 9;
+console.log(a + b+ c);
+
+
